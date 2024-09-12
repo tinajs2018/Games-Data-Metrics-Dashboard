@@ -66,9 +66,7 @@ Step 7: Maintain and Update
 Enabled automatic data refresh in Looker Studio to keep the dashboard up to date as new player data becomes available.
 
 # Dashboard Screenshots
- ![Alt text] (home/christine/Pictures/Screenshots/Screenshot%20from%202024-09-12%2021-06-42.png)
-
-
+![Dashboard Screenshot](https://github.com/tinajs2018/Games-Data-Metrics-Dashboard/raw/main/Screenshot%20from%202024-09-12%2021-06-42.png)
 
 # Future Improvements
 Add new metrics such as player performance stats or injury reports.
